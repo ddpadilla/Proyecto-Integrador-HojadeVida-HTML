@@ -1,0 +1,26 @@
+* {
+    color: blue;
+}
+
+header {
+    background-color: #AED6F1;
+    color: antiquewhite;
+}
+
+header:hover {
+    background-color: blue;
+    color: aqua;
+}
+
+.perfil {
+    border: 2px solid black;
+}
+
+#pie-de-pagina {
+    background-color: blueviolet;
+}
+
+h1,
+h2 {
+    font-style: italic;
+}
